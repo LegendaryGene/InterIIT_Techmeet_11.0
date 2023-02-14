@@ -5,8 +5,6 @@
 ```bash
 git clone -b main git@github.com:<removed>/interiit_11.0.git
 cd interiit_11.0
-git submodule init
-git submodule update
 ```
 
 Install OpenCV 4.2.0
